@@ -10,4 +10,5 @@ Predict which passengers are transported to an alternate dimension
   split train data to relavent samples for training the model and evaluvation
 ## trainig the model and testing 
    random forest classifier
-
+# Data source
+   https://www.kaggle.com/competitions/spaceship-titanic/data
